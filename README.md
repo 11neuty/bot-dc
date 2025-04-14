@@ -34,7 +34,7 @@ Pastikan Anda sudah menginstal:
 
 ### 1. Clone Repository
 ```bash
-git clone <URL_REPOSITORY>
+git clone https://github.com/11neuty/bot-dc.git
 cd <NAMA_FOLDER>
 ```
 ### 2. Instalasi Dependensi
